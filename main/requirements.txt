@@ -1,0 +1,16 @@
+numpy==1.21.0
+pandas==1.3.0
+jupyter==1.0.0
+requests==2.26.0
+sqlalchemy==1.4.22
+beautifulsoup4==4.9.3
+matplotlib==3.4.2
+seaborn==0.11.1
+scikit-learn==0.24.2
+tensorflow==2.5.0
+backtrader==1.9.76.123
+quantconnect==1.0.0
+scipy==1.7.0
+quantlib==1.22
+python-dotenv==0.19.0
+unittest

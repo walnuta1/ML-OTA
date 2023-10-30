@@ -1,0 +1,14 @@
+{
+    "api_config.json": {
+        "AlphaVantageKey": "your_key_here",
+        "IEXCloudToken": "your_token_here"
+    },
+    "model_parameters.yaml": {
+        "learning_rate": 0.01,
+        "n_estimators": 100
+    },
+    "risk_settings.ini": {
+        "maximum_drawdown": 0.2,
+        "VaR": 0.05
+    }
+}
