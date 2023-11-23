@@ -1,2 +1,2 @@
 # ML-OTA
- Machine Learning - Optimized fo Quants  - Options Trading App
+ Machine Learning - Optimized for Quants  - Options Trading App
