@@ -117,36 +117,6 @@ Reporting and Dashboards
 *   Overview of reporting features.
 *   Customizing and interpreting dashboard data.
 
-Troubleshooting
----------------
-
-*   Common issues and their solutions.
-*   How to report an unidentified issue.
-
-FAQ
----
-
-*   Answers to frequently asked questions.
-
-Support and Contact
--------------------
-
-*   How to get support.
-*   Contact information for technical assistance.
-
-Contributing
-------------
-
-*   How to contribute to ML-OTA.
-*   Guidelines for contributions and pull requests.
-
-License
--------
-
-*   Information about the software license.
-
-* * *
-
 Contribution
 ------------
 
