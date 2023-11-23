@@ -25,7 +25,7 @@ To get started with ML-OTA, clone the repository and install the necessary depen
 
 bashCopy code
 
-`git clone https://github.com/your-repository/ml-ota.git cd ml-ota pip install -r requirements.txt`
+`git clone https://github.com/walnuta1/ml-ota.git cd ml-ota pip install -r requirements.txt`
 
 Follow the setup instructions in the `INSTALL.md` file for detailed setup procedures.
 
