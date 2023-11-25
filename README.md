@@ -125,7 +125,7 @@ Contributions to ML-OTA are welcome! Please read our `CONTRIBUTING.md` for guide
 Support
 -------
 
-For support, questions, or feedback, please file an issue in the GitHub repository, or contact us at [skyler@walnutai.dev](mailto:skyler@walnutai.dev).
+For support, questions, or feedback, please file an issue in the GitHub repository, or contact us at [support@walnutai.dev](mailto:support@walnutai.dev).
 
 License
 -------
